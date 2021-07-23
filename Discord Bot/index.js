@@ -709,7 +709,7 @@ const Discord = require ('discord.js');
 
 const bot = new Discord.Client ();
 
-const token = 'NzM4ODQzNTUxODEwNzE1NzAx.XyRzrQ.3pjeSFqp4BNPcQAgQNJPPM3DtSk';
+const token = ''; // add ur own token here D:
 
 // message logic //
 
